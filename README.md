@@ -7,7 +7,7 @@ In this project, you will analyze a dataset and then communicate your findings a
 
 Clone the GitHub repository and install the dependencies.
 * Install 
-   * pandas
+  * pandas
   * numpy
   * matplotlib
   * csv
